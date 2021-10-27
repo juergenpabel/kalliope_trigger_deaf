@@ -1,0 +1,11 @@
+---
+name: "deaf"
+type: "trigger"
+author: "juergenpabel"
+
+kalliope_supported_version:
+  - 0.7
+tags:
+  - "deaf"
+  - "noop"
+  - "trigger"
